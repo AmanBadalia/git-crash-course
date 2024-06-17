@@ -4,5 +4,5 @@ function load(){
 
 
 function NewFeatureAdded(){
-    return "Branch1";
+    return "Branch1 Branch";
 }
