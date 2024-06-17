@@ -1,3 +1,3 @@
 function load(){
-    return "Sam";
+    return "Sammmm";
 }
