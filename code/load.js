@@ -8,4 +8,5 @@ function NewFeatureAdded(){
     console.log("First Commit")
     console.log("Second Commit")
     console.log("Third Commit")
+    console.log("1st Commit")
 } 
