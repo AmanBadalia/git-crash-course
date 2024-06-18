@@ -5,4 +5,5 @@ function load(){
 
 function NewFeatureAdded(){
     return "Branch1 Branch";
-}
+    console.log("First Commit")
+} 
