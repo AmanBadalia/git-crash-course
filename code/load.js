@@ -1,5 +1,7 @@
 function load(){
+    console.log("First Commit")
     return "Sammmm";
+    
 }
 
 
