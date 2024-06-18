@@ -1,5 +1,6 @@
 function load(){
     console.log("First Commit")
+    console.log("Second Commit")
     return "Sammmm";
     
 }
