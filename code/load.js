@@ -10,4 +10,5 @@ function NewFeatureAdded(){
     console.log("Third Commit")
     console.log("1st Commit")
     console.log("2nd Commit")
+    console.log("3rd Commit")
 } 
